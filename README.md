@@ -8,7 +8,7 @@ May today be a wonderful day for us.
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/sarayut-aiamaurai/)
 *   ✉️  You can contact me at [sarayut.aiamaurai@gmail.com](mailto:sarayut.aiamaurai@gmail.com)
 *   ⚡  Fun fact I think I am funny<a href="https://www.github.com/arayutBz" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/arayutBz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/arayutBz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
                     </p>
