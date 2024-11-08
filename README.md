@@ -11,7 +11,7 @@ I am passionate about learning and improving my skills in both front-end and bac
   <tr  >
     <td >
      <img src="https://github-contributor-stats.vercel.app/api?username=SarayutBz&limit=5&theme=vue&combine_all_yearly_contributions=false" alt="Top repo"/>
-     <img src="https://github.com/user-attachments/assets/a26dd925-bc51-400b-bfa5-01bc10f6934c" alt="profile-image" style="width: 400px; height: auto; padding:2px;"/>
+     <img src="https://github.com/user-attachments/assets/a26dd925-bc51-400b-bfa5-01bc10f6934c" alt="profile-image" style="width: 300px; height: auto; padding:2px;"/>
     </td>
  </tr>
 </table>
