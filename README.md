@@ -26,38 +26,43 @@ I am passionate about learning and improving my skills in both front-end and bac
 
 ## 🔨 My Tech Stack
 
-<table >
-  <tr  >
-    <td >
-        <h3>Programming Languages</h3>
+<table align="center" style="border-collapse: collapse; text-align: center; font-family: Arial, sans-serif; border: 1px solid #ddd; width: 100%; background-color: #f9f9f9;">
+  <thead style="background-color: #007BFF; color: white;">
+    <tr>
+      <th style="padding: 10px;">Programming Languages</th>
+      <th style="padding: 10px;">Frontend Frameworks</th>
+      <th style="padding: 10px;">Backend Frameworks</th>
+      <th style="padding: 10px;">Databases</th>
+      <th style="padding: 10px;">Cloud/DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-     </td>
-    <td >
-        <h3>Frontend Frameworks</h3>
+      </td>
+      <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
-    </td>
-    <td >
-        <h3>Backend Frameworks</h3>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+      </td>
+      <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    </td>
-   <td >
-        <h3>Databases</h3>
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+      </td>
+      <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    </td>
-   <td>
-        <h3>Cloud/DevOps</h3>
+      </td>
+      <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="width: 100px; alt="Docker/>
-   </td>
-   
-<!--     <td>
-    </td> -->
-  </tr>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 # 📊 GitHub Stats:
