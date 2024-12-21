@@ -2,73 +2,77 @@
 
 # 👋 Hello, I'm Ball!
 
-I'm a **3rd-year Computer Science student** at **Maejo University**, and I'm currently looking for an internship position as a **Full Stack Developer**.  
-I am passionate about learning and improving my skills in both front-end and back-end development. 
+### 🌟 3rd-Year Computer Science Student | Aspiring Full Stack Developer  
+I'm currently seeking an **internship position** as a **Full Stack Developer** to enhance my skills and gain hands-on experience in building scalable and robust web applications.
 
-💡 Right now, I’m focusing on developing my skills in **English**, **front-end & back-end development**, and **investing** in **stocks** and **forex**.   
- I am working hard to expand my technical knowledge and my understanding of financial markets to make informed investment decisions.
-<table >
-  <tr  >
-    <td >
-     <img src="https://github-contributor-stats.vercel.app/api?username=SarayutBz&limit=5&theme=vue&combine_all_yearly_contributions=false" alt="Top repo"/>
-     <img src="https://github.com/user-attachments/assets/a26dd925-bc51-400b-bfa5-01bc10f6934c" alt="profile-image" style="width: 300px; height: auto; padding:2px;"/>
-    </td>
- </tr>
-</table>
+💡 **What I’m Up To**  
+- **Improving technical skills** in **front-end & back-end development**.  
+- **Mastering English** communication for global career opportunities.  
+- **Exploring financial markets** to make informed decisions in **stocks** and **forex investments**.
 
 ---
 
-## 🌟 What I'm Focusing On
+## 🚀 Areas of Focus  
+- **Full Stack Development**: Learning best practices for designing and developing user-centric applications.  
+- **Investment Knowledge**: Exploring market analysis and strategy-building for long-term success.  
+- **Soft Skills Development**: Strengthening communication and problem-solving skills.  
 
-- **Full Stack Development**: Gaining hands-on experience in both front-end and back-end technologies.
-- **English Proficiency**: Improving my communication skills to enhance career opportunities.
-- **Stock & Forex Investment**: Learning how to analyze and invest in financial markets like stocks and forex.
+---
 
-## 🔨 My Tech Stack
+## 🔨 Tech Stack  
 
-<table align="center" style="border-collapse: collapse; text-align: center; font-family: Arial, sans-serif; border: 1px solid #ddd; width: 100%; background-color: #f9f9f9;">
+<table align="center" style="width: 100%; text-align: center; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead style="background-color: #007BFF; color: white;">
     <tr>
-      <th style="padding: 10px;">Programming Languages</th>
-      <th style="padding: 10px;">Frontend Frameworks</th>
-      <th style="padding: 10px;">Backend Frameworks</th>
-      <th style="padding: 10px;">Databases</th>
-      <th style="padding: 10px;">Cloud/DevOps</th>
+      <th>Languages</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Databases</th>
+      <th>Cloud/DevOps</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+    <tr style="background-color: #f9f9f9;">
+      <td>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>  
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>  
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>  
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>  
       </td>
-      <td style="padding: 10px;">
-        <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+      <td>
+        <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>  
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>  
       </td>
-      <td style="padding: 10px;">
-        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+      <td>
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>  
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>  
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>  
       </td>
-      <td style="padding: 10px;">
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <td>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>  
       </td>
-      <td style="padding: 10px;">
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>  
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>  
       </td>
     </tr>
   </tbody>
 </table>
 
-# 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarayutBz&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarayutBz&theme=vue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarayutBz&theme=vue&hide_border=true&layout=compact" alt="Top Languages"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarayutBz&theme=vue&hide_border=true" alt="GitHub Streak"/>  
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+🌐 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)  
+
+---
