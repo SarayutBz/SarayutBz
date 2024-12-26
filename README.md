@@ -1,6 +1,15 @@
 [![](https://visitcount.itsvg.in/api?id=SarayutBz&icon=5&color=12)](https://visitcount.itsvg.in)
 
 # 👋 Hello, I'm Ball!
+<table style="width: 100%; text-align: center; border: none; font-family: Arial, sans-serif;">
+  <thead style="background-color: #007BFF; color: white; border: none;">
+    <tr>
+      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=web&logoColor=white"></a>
+    </tr>
+  </thead>
+</table>
+
 
 ### 🌟 3rd-Year Computer Science Student | Aspiring Full Stack Developer  
 I'm currently seeking an **internship position** as a **Full Stack Developer** to enhance my skills and gain hands-on experience in building scalable and robust web applications.
@@ -74,8 +83,4 @@ I'm currently seeking an **internship position** as a **Full Stack Developer** t
 
 ---
 
-🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)  
 
----
